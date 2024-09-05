@@ -14,8 +14,8 @@
     "url": "git+https://github.com/stuartizon/terraform-aws-jwt-authorizer.git"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
-    "jwks-rsa": "^1.8.0"
+    "jsonwebtoken": "^9.0.2",
+    "jwks-rsa": "^2.0.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
